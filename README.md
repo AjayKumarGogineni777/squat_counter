@@ -20,9 +20,9 @@ Before you begin, ensure you have met the following requirements:
     ```sh
     npm install
     ```
-## Example Video
+## Demo
 
-You can find an example video for testing [here](https://drive.google.com/file/d/17UyKVEEnrf7iVc7mJYRt4f_eBRTLa3Pu/view?usp=sharing).
+You can find the demo [here](https://drive.google.com/file/d/17UyKVEEnrf7iVc7mJYRt4f_eBRTLa3Pu/view?usp=sharing).
 
 
 ## Usage
